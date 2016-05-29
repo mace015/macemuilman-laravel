@@ -83,7 +83,7 @@
 						</div>
 						<h3>COMPLEXE WEB OPLOSSINGEN</h3>
 					</div>
-					<p>Van simpele informatie websites tot complexe beheer systemen!</p>
+					<p>Van simpele informatie websites tot complexe beheer systemen.</p>
 				</div>
 			</div>
 			<div class="vozx_column_dd_span3 vozx-animo" data-animation="fadeInDown" data-duration="1000" data-delay="200">
@@ -116,7 +116,7 @@
 						</div>
 						<h3>TOEKOMST BESTENDIG</h3>
 					</div>
-					<p>Altijd de laaste technologieen!</p>
+					<p>Altijd de laaste technologieen.</p>
 				</div>
 			</div>
 		</div>
@@ -162,7 +162,7 @@
 					</div>
 					<h3>WAAR</h3>
 					<div class="vozx-accordion-body">
-					Ik werk bij <a target="_blank" href="http://moodles.nl">MOODLES</a>, een gaaf webbureau in Rotterdam dan!
+					Ik werk bij <a target="_blank" href="http://moodles.nl">MOODLES</a>, een gaaf webbureau in Rotterdam!
 					</div>
 					<h3>HOE</h3>
 					<div class="vozx-accordion-body">
@@ -187,7 +187,7 @@
 					<i class="icon-group"></i>
 					<span class="vozx_stats_number white_text" data-number="3" data-duration="1500"></span>
 					<span class="vozx_stats_number_sign">+</span>
-					<p>Jaar ervaring</p>
+					<p>Jaren werk ervaring</p>
 				</div>
 			</div>
 			<div class="vozx_column_dd_span3">

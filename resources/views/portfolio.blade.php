@@ -61,7 +61,7 @@
 								<div class="overlayed">
 									<img src="images/portfolio_larago.png" alt="portfolio7" />										
 									<a class="overlay fancybox" data-fancybox-group="portfolio" href="images/portfolio_larago.png">
-										<p class="overlay_title">Larago (in ontwikkeling)</p>
+										<p class="overlay_title">Larago</p>
 										<p class="portfolio_item_tags">
 											Platform
 										</p>
@@ -70,13 +70,13 @@
 							</div>
 							<div class="portfolio_item_meta_detail_description">
 								<h6>
-									<a target="_blank" href="http://larago.com">Larago (in ontwikkeling)</a>
+									<a target="_blank" href="http://larago.com">Larago</a>
 								</h6>
 								<p class="portfolio_3column_detail">
 									<span class="portfolio_item_meta_data">
 										Platform
 									</span>
-									<span class="detail_content">Larago is een platform voor het delen van stukje Laravel code, dit platform is nog in ontwikkeling!</span>
+									<span class="detail_content">Larago is een platform voor het delen van stukje Laravel code.</span>
 								</p>
 							</div>
 						</div>
@@ -85,24 +85,24 @@
 						<div class="portfolio_inner_content">
 							<div class="portfolio_item">
 								<div class="overlayed">
-									<img src="images/portfolio_pigeon.png" alt="portfolio4" />										
-									<a class="overlay fancybox" data-fancybox-group="portfolio" href="images/portfolio_pigeon.png">
-										<p class="overlay_title">Pigeon Post (in ontwikkeling)</p>
+									<img src="images/macevc.png" alt="portfolio4" />										
+									<a class="overlay fancybox" data-fancybox-group="portfolio" href="images/macevc.png">
+										<p class="overlay_title">MaceVC</p>
 										<p class="portfolio_item_tags">
-											Chat app
+											PHP framework
 										</p>
 									</a>
 								</div>
 							</div>
 							<div class="portfolio_item_meta_detail_description">
 								<h6>
-									<a target="_blank" href="https://github.com/mace015/PigeonPost">Pigeon Post (in ontwikkeling)</a>
+									<a target="_blank" href="https://github.com/mace015/MaceVC">MaceVC</a>
 								</h6>
 								<p class="portfolio_3column_detail">
 									<span class="portfolio_item_meta_data">
-										Chat app	
+										PHP framework
 									</span>
-									<span class="detail_content">Pigeon post is een chat applicatie die werkt met een Node.js/Socket.io back-end.</span>
+									<span class="detail_content">MaceVC is een PHP framework zwaar geinspireerd en gebaseerd op Laravel en Laravel componenten.</span>
 								</p>
 							</div>
 						</div>

@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 
+use Carbon\Carbon;
+
 class PagesController extends Controller
 {
 
@@ -15,7 +17,9 @@ class PagesController extends Controller
 
     public function over(){
 
-        return view('over');
+        $leeftijd = Carbon::parse('03-07-1995')->age;
+
+        return view('over', compact('leeftijd'));
 
     }
 

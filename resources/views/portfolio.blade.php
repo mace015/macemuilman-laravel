@@ -33,7 +33,7 @@
 						<div class="portfolio_inner_content">
 							<div class="portfolio_item">
 								<div class="overlayed">
-									<img src="images/portfolio_processors.png" alt="portfolio1" />										
+									<img src="images/portfolio_processors.png" alt="Processors voor laravel" />
 									<a class="overlay fancybox" data-fancybox-group="portfolio" href="images/portfolio_processors.png">
 										<p class="overlay_title">Processors voor Laravel</p>
 										<p class="portfolio_item_tags">
@@ -59,7 +59,7 @@
 						<div class="portfolio_inner_content">
 							<div class="portfolio_item">
 								<div class="overlayed">
-									<img src="images/portfolio_larago.png" alt="portfolio7" />										
+									<img src="images/portfolio_larago.png" alt="Larago" />						
 									<a class="overlay fancybox" data-fancybox-group="portfolio" href="images/portfolio_larago.png">
 										<p class="overlay_title">Larago</p>
 										<p class="portfolio_item_tags">
@@ -85,7 +85,7 @@
 						<div class="portfolio_inner_content">
 							<div class="portfolio_item">
 								<div class="overlayed">
-									<img src="images/macevc.png" alt="portfolio4" />										
+									<img src="images/macevc.png" alt="MaceVC" />										
 									<a class="overlay fancybox" data-fancybox-group="portfolio" href="images/macevc.png">
 										<p class="overlay_title">MaceVC</p>
 										<p class="portfolio_item_tags">
@@ -103,6 +103,32 @@
 										PHP framework
 									</span>
 									<span class="detail_content">MaceVC is een PHP framework zwaar geinspireerd en gebaseerd op Laravel en Laravel componenten.</span>
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="span4">
+						<div class="portfolio_inner_content">
+							<div class="portfolio_item">
+								<div class="overlayed">
+									<img src="images/package-creator.png" alt="Package creator" />							
+									<a class="overlay fancybox" data-fancybox-group="portfolio" href="images/package-creator.png">
+										<p class="overlay_title">Package creator</p>
+										<p class="portfolio_item_tags">
+											Laravel Package
+										</p>
+									</a>
+								</div>
+							</div>
+							<div class="portfolio_item_meta_detail_description">
+								<h6>
+									<a target="_blank" href="https://github.com/mace015/package-creator">Package creator</a>
+								</h6>
+								<p class="portfolio_3column_detail">
+									<span class="portfolio_item_meta_data">
+										Laravel Package
+									</span>
+									<span class="detail_content">Een kleine helper om simpel package scaffolding mee te genereren.</span>
 								</p>
 							</div>
 						</div>

@@ -21,7 +21,7 @@
 						<img style="height: 150px;" src="{{ asset('images/php.png') }}" />
 						<h3>PHP</h3>
 					</div>
-					<p>Zeer Ervaren</p>
+					<p>Zeer ervaren</p>
 				</div>
 			</div>
 			<div class="vozx_column_dd_span3">
@@ -59,7 +59,7 @@
 						<img style="height: 150px;" src="{{ asset('images/css.png') }}" />
 						<h3>CSS</h3>
 					</div>
-					<p>Ervaren</p>
+					<p>Gemiddelde kennis</p>
 				</div>
 			</div>
 			<div class="vozx_column_dd_span3">
@@ -74,10 +74,10 @@
 			<div class="vozx_column_dd_span3">
 				<div class="vozx_service_box vozx_service_box_unboxed_round">
 					<div class="vozx_service_box_header">
-						<img style="height: 150px;" src="{{ asset('images/ubuntu.png') }}" />
-						<h3>Server management</h3>
+						<img style="height: 150px;" src="{{ asset('images/linux.png') }}" />
+						<h3>Linux + Server management</h3>
 					</div>
-					<p>Gemiddelde kennis</p>
+					<p>Ervaren</p>
 				</div>
 			</div>
 		</div>

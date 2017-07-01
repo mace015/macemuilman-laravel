@@ -9,30 +9,25 @@ use Carbon\Carbon;
 class PagesController extends Controller
 {
 
-    public function index(){
-
+    public function index()
+    {
         return view('index');
-
     }
 
-    public function over(){
-
+    public function over()
+    {
         $leeftijd = Carbon::parse('03-07-1995')->age;
 
         return view('over', compact('leeftijd'));
-
     }
 
-    public function portfolio(){
-
+    public function portfolio()
+    {
         return view('portfolio');
-
     }
 
-    public function contact(){
-
+    public function contact()
+    {
         return view('contact');
-
     }
-
 }

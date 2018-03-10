@@ -9,7 +9,7 @@
 	<!--[if lt IE 9]>
 	  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,700,900" type="text/css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,400italic,700,900" type="text/css">
 	<link rel="stylesheet" href="rs-plugin/css/settings.css" type="text/css" media="all">
 	<link rel="stylesheet" href="css/core-icons/core_style.css" type="text/css" media="all">
 	<link rel="stylesheet" href="css/icons/style.css" type="text/css" media="all">

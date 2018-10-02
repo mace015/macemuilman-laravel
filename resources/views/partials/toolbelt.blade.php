@@ -12,7 +12,6 @@
 						<img style="height: 150px;" src="{{ asset('images/laravel.png') }}" />
 						<h3>Laravel</h3>
 					</div>
-					<p>Zeer ervaren</p>
 				</div>
 			</div>
 			<div class="vozx_column_dd_span3">
@@ -21,7 +20,6 @@
 						<img style="height: 150px;" src="{{ asset('images/php.png') }}" />
 						<h3>PHP</h3>
 					</div>
-					<p>Zeer ervaren</p>
 				</div>
 			</div>
 			<div class="vozx_column_dd_span3">
@@ -30,7 +28,6 @@
 						<img style="height: 150px;" src="{{ asset('images/node.png') }}" />
 						<h3>Node.js</h3>
 					</div>
-					<p>Ervaren</p>
 				</div>
 			</div>
 			<div class="vozx_column_dd_span3">
@@ -39,7 +36,6 @@
 						<img style="height: 150px;" src="{{ asset('images/js.png') }}" />
 						<h3>Javascript</h3>
 					</div>
-					<p>Zeer ervaren</p>
 				</div>
 			</div>
 		</div>
@@ -50,7 +46,6 @@
 						<img style="height: 150px;" src="{{ asset('images/html.png') }}" />
 						<h3>HTML</h3>
 					</div>
-					<p>Ervaren</p>
 				</div>
 			</div>
 			<div class="vozx_column_dd_span3">
@@ -59,7 +54,6 @@
 						<img style="height: 150px;" src="{{ asset('images/css.png') }}" />
 						<h3>CSS</h3>
 					</div>
-					<p>Gemiddelde kennis</p>
 				</div>
 			</div>
 			<div class="vozx_column_dd_span3">
@@ -68,7 +62,6 @@
 						<img style="height: 150px;" src="{{ asset('images/mysql.png') }}" />
 						<h3>SQL</h3>
 					</div>
-					<p>Ervaren</p>
 				</div>
 			</div>
 			<div class="vozx_column_dd_span3">
@@ -77,7 +70,6 @@
 						<img style="height: 150px;" src="{{ asset('images/linux.png') }}" />
 						<h3>Linux + Server management</h3>
 					</div>
-					<p>Ervaren</p>
 				</div>
 			</div>
 		</div>

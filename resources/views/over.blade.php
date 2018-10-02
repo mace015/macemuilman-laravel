@@ -152,7 +152,7 @@
 											<td><a target="_blank" href="http://moodles.nl">Moodles</a></td>
 										</tr>
 										<tr>
-											<td>2007 / 2014</td>
+											<td>2011 / 2014</td>
 											<td>Vulploegmedewerker</td>
 											<td>Jumbo Supermarkten</td>
 										</tr>

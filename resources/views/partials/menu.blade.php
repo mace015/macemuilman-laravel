@@ -11,14 +11,8 @@
 					<li class="menu-item-has-children @if(Request::is('/')) current-menu-item @endif">
 						<a href="/"><span>Home</span></a>
 					</li>
-					<li class="menu-item-has-children @if(Request::is('over')) current-menu-item @endif">
-						<a href="/over"><span>Over mij</span></a>
-					</li>
-					<li class="menu-item-has-children @if(Request::is('portfolio')) current-menu-item @endif">
-						<a href="/portfolio"><span>Portfolio</span></a>
-					</li>
-					<li class="menu-item-has-children @if(Request::is('contact')) current-menu-item @endif">
-						<a href="/contact"><span>Contact</span></a>
+					<li class="menu-item-has-children">
+						<a href="https://github.com/mace015" target="_blank"><span>Github</span></a>
 					</li>
 				</ul>
 			</nav>

@@ -38,7 +38,7 @@
 					<p>
 						<strong>Werkgever/functie:</strong> Software engineer bij <a target="_blank" href="http://moodles.nl">MOODLES</a> / <a target="_blank" href="http://verloning.nl">VERLONING.NL</a><br />
 						<strong>Werk ervaring:</strong> {{ $experience }} jaar<br />
-						<strong>Favoriete tools:</strong> Laravel, PHP, Docker, Node.js, Javascript, Vue.js, Vuex, MariaDB<br />
+						<strong>Favoriete tools:</strong> Laravel, PHP, Docker, Linux, Node.js, Javascript, Vue.js, Vuex, MariaDB<br />
 						<strong>Favoriete OS:</strong> Manjaro Linux<br />
 						<strong>Extra's:</strong> Anglia level proficiency (extra engels diploma)<br />
 					</p>

@@ -1,0 +1,1 @@
+FROM mace015/laravel-docker-php-fpm:latest

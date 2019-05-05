@@ -18,7 +18,7 @@
 		<section id="page404" class="container">
 			<p class="big_404">404</p>
 			<p class="big_404_text">Het lijkt er op dat de pagina die u probeerde te bezoeken niet gevonden kan worden.</p>
-			<p class="big_404_text"><a href="{{ URL::previous() }}">Klik hier om terug te gaan</a></p>
+			<p class="big_404_text"><a href="{{ route('index') }}">Klik hier om terug te gaan</a></p>
 		</section>
 
 	</div>

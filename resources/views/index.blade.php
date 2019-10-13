@@ -25,7 +25,7 @@
 		<div class="vozx_container">
 			<div class="vozx_column_dd_span6 ">
 				<div class="vozx-animo " data-animation="fadeIn" data-duration="1000" data-delay="0">
-					<img src="images/profiel_foto.jpg" alt="">
+					<img src="images/mace.png" alt="">
 				</div>
 			</div>
 			<div class="vozx_column_dd_span6 info vozx-animo" data-animation="fadeInRight" data-duration="1000" data-delay="200">
@@ -59,7 +59,7 @@
 			</div>
 		</div>
 	</div>
-</div>		
+</div>
 </section>
 
 <section class="vozx_section_dd darken white_text vozx-parallax" data-background_image="images/code1.png" data-parallax="0.6">
@@ -246,7 +246,7 @@
 				</div>
 			</div>
 		</div>
-	</div>	
+	</div>
 </section>
 
 @stop

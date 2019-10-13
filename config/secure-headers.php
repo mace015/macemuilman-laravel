@@ -20,7 +20,7 @@ return [
      * Available Value: 'nosniff'
      */
 
-    'x-content-type-options' => 'nosniff',
+    'x-content-type-options' => '',
 
     /*
      * X-Download-Options
@@ -40,7 +40,7 @@ return [
      * Available Value: 'deny', 'sameorigin', 'allow-from <uri>'
      */
 
-    'x-frame-options' => 'sameorigin',
+    'x-frame-options' => '',
 
     /*
      * X-Permitted-Cross-Domain-Policies
@@ -110,7 +110,7 @@ return [
      */
 
     'hsts' => [
-        'enable' => true,
+        'enable' => false,
 
         'max-age' => 15552000,
 
